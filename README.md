@@ -1,7 +1,7 @@
 你好！我是诺渊。
 感谢你来到我的主页，让我想想我应该展示些什么...
 
-https://stats.justsong.cn/api/github?username=Hikari16665
+[Stats](https://stats.justsong.cn/api/github?username=Hikari16665)
 
 ---
 
