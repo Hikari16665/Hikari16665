@@ -6,7 +6,7 @@ submit a issue or pull request to me if you want.
 
 
 [![Hikari16665's GitHubCard](https://githubcard.com/Hikari16665.svg?d=j5PYiw_qq2yH)](https://githubcard.com/Hikari16665/card?utm_source=github&utm_medium=readme)
-[![Hikari16665's GitHubCard pt2](https://githubcard.com/Hikari16665.svg?d=RZ9jXdc7bQsd)](https://githubcard.com/Hikari16665/card?utm_source=github&utm_medium=readme)
+[![Hikari16665's GitHubCard](https://githubcard.com/Hikari16665.svg?d=RZ9jXdc7bQsd)](https://githubcard.com/Hikari16665/card?utm_source=github&utm_medium=readme)
 
 
 ## Contact me
